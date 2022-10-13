@@ -2,14 +2,15 @@
 - install spring in sexbolt
     - use other parts
 - FINISH ELLIS TUNING
-  - input shaper
-    - blue goes to inside of connector
-  - pressure advance, etc
-
+    - input shaper
+        - blue goes to inside of connector
+    - pressure advance, etc
 - put printer on UPS
+- LAN vs wireless
 - reduce length of bowden tube in printer case
 - start using bed mesh
-
+- Mainsail timelapse
+    - https://www.youtube.com/watch?v=n-BVPidUDLI 
 
 ## TO PRINT
 - purge bucket/nozzle wipe? 
@@ -29,6 +30,8 @@
 ## TO BUILD
 ### CW2 VERIFY AGAINST BOM at [https://vorondesign.com/voron_stealthburner](https://vorondesign.com/sourcing_guide?model=VSB)
 - hartk 2 piece pcb (got it)
+    - https://github.com/hartk1213/MISC/tree/main/PCBs/Stealthburner_Toolhead_PCB
+    - https://www.youtube.com/watch?v=PCIwZRPYMZ8
 - need motor (ordered)
 - gear kit (ordered)
 - set ratio to 50:10
