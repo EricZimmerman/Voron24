@@ -17,6 +17,8 @@
     - https://www.amazon.com/dp/B07Z97582P/?coliid=I278JGHS5OD8M7&colid=3T6GGJW7T3YSG&psc=1&ref_=lv_ov_lig_dp_it
 - add to super slicer
   - Printer Settings -> Custom G-code -> Before layer change Gcode -> TIMELAPSE_TAKE_FRAME
+- C920 webcam
+  - https://www.teamfdm.com/files/file/275-c920-mount/
 
 ## TO PRINT
 - purge bucket/nozzle wipe? 
