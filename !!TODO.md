@@ -1,3 +1,10 @@
+## Debug
+
+if you are switching to CW2,  then at that time, i would :
+1) dbl check no shorts in soldering
+2) test with 3 wire cable to one of the endstop ports. it should behave fine and be nice and cool
+if not, then i would exhcnage yours to see what is going on.
+
 ## General
 - install spring in sexbolt
     - use other parts
