@@ -9,28 +9,39 @@ if not, then i would exhcnage yours to see what is going on.
 - sensorless end stops for x and y
     - https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html
 - CANBUS WHEN CW2
-- install spring in sexbolt
-    - use other parts
+    - https://www.teamfdm.com/forums/topic/672-how-to-use-can-toolhead-boards-connected-directly-to-octopus-octopus-pro-on-canboot/
+    - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/LoCoCNC/Strain_Relief_w_Microfit
+    - https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/beefy_raspberry_bracket.stl
+    - https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Electronics_Bay/pcb_din_clip_x3.stl
+    - https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/toolhead_breakout_pcb_bracket.stl
+    - https://github.com/KayosMaker/CANboard_Mounts
+    - https://github.com/majarspeed/Misc-Voron/tree/main/StealthBurner%20Umbilical%20cover
+    - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/Rear_Umbilical
+    - https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/CW2_SB2040_CAN_Umbilical
+
 - FINISH ELLIS TUNING
     - input shaper
         - blue goes to inside of connector
     - pressure advance, etc
 - put printer on UPS
 - LAN vs wireless
-- reduce length of bowden tube in printer case
 - start using bed mesh
 - Mainsail timelapse
     - https://www.youtube.com/watch?v=n-BVPidUDLI 
+    - add to super slicer
+    - Printer Settings -> Custom G-code -> Before layer change Gcode -> TIMELAPSE_TAKE_FRAME
 - KlipperScreen?
     - https://klipperscreen.readthedocs.io/en/latest/
 - Filament sensor
     - https://www.amazon.com/dp/B07Z97582P/?coliid=I278JGHS5OD8M7&colid=3T6GGJW7T3YSG&psc=1&ref_=lv_ov_lig_dp_it
-- add to super slicer
-  - Printer Settings -> Custom G-code -> Before layer change Gcode -> TIMELAPSE_TAKE_FRAME
 - C920 webcam
   - https://www.teamfdm.com/files/file/275-c920-mount/
 
 ## TO PRINT
+- https://www.thingiverse.com/thing:2479238
+- 270 degree hinges, or other removable ones
+    - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge
+    - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/randell/Door_Hinges
 - purge bucket/nozzle wipe? 
    - https://github.com/Dfdye/Voron_Mods/tree/main/Purge_Bucket_for_WP_Kinetic_Mount
    - have one in macros already, but https://github.com/Hartk-PrinterConfigs/DoomConfig/blob/master/purge.cfg
@@ -53,8 +64,7 @@ if not, then i would exhcnage yours to see what is going on.
   - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/elcrni/V2.4-Trident-Spool-Holders
 - Rock and roll for electronics access
   - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/RockNLol/RockNRoll
-- Door hinges
-  - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/randell/Door_Hinges
+
 - Scraper
   - https://www.printables.com/model/28337-scraper-for-build-plate-version-2
 - Updated z joints with bearing
