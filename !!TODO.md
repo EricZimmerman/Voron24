@@ -9,6 +9,7 @@ if not, then i would exhcnage yours to see what is going on.
 - sensorless end stops for x and y
     - https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html
 - CANBUS WHEN CW2
+    - https://github.com/maz0r/klipper_canbus/blob/main/controller/monster8v2.md
     - https://www.teamfdm.com/forums/topic/672-how-to-use-can-toolhead-boards-connected-directly-to-octopus-octopus-pro-on-canboot/
     - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/LoCoCNC/Strain_Relief_w_Microfit
     - https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/beefy_raspberry_bracket.stl
