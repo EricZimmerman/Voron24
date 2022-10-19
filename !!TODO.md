@@ -6,6 +6,8 @@ if you are switching to CW2,  then at that time, i would :
 if not, then i would exhcnage yours to see what is going on.
 
 ## General
+- igus cables direct
+    - https://www.igus.com/product?artNr=CF10-05-04
 - sensorless end stops for x and y
     - https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html
 - CANBUS WHEN CW2
