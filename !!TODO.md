@@ -20,7 +20,13 @@ if not, then i would exhcnage yours to see what is going on.
     - https://github.com/majarspeed/Misc-Voron/tree/main/StealthBurner%20Umbilical%20cover
     - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/Rear_Umbilical
     - https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/CW2_SB2040_CAN_Umbilical
-
+    - canbut and SB/CWw2 stuff https://github.com/kejar31/VoronMods/tree/main/CB-C2
+        - need a fan https://dfh.fm/products/sunon-mf20100v1-1000u-a99-2010-axial-fan?_pos=1&_sid=d08833795&_ss=r
+- Macro ideas
+    - https://github.com/zellneralex/klipper_config/tree/master
+    - https://docs.vorondesign.com/community/macros/macros/120decibell.html
+    - swap out existing for these or euclid ones
+        - https://github.com/jlas1/Klicky-Probe/blob/main/Klipper_macros/klicky-macros.cfg
 - FINISH ELLIS TUNING
     - input shaper
         - blue goes to inside of connector
@@ -38,8 +44,16 @@ if not, then i would exhcnage yours to see what is going on.
     - https://www.amazon.com/dp/B07Z97582P/?coliid=I278JGHS5OD8M7&colid=3T6GGJW7T3YSG&psc=1&ref_=lv_ov_lig_dp_it
 - C920 webcam
   - https://www.teamfdm.com/files/file/275-c920-mount/
+  - Mount under z rail https://media.discordapp.net/attachments/710952853514223617/1031599846202822697/20221016_174843.jpg
+- verify tension
+    - The way I find the tension is to loosen the tension, heat up the hotend so extruder motor is energized, open the latch, insert filament, close the latch, pull. If it comes out, tighten one full turn. Pull again and repeat if it slips. Once it does not slip, add another full turn, maybe one and a half turns.
+
 
 ## TO PRINT
+- thermistor mount for chamber temp
+    - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Z_Chain_Guide_Thermistor_Mount
+- wago mounts
+    - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Boingomw/Wago_mount
 - https://www.thingiverse.com/thing:2479238
 - 270 degree hinges, or other removable ones
     - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge
@@ -52,6 +66,7 @@ if not, then i would exhcnage yours to see what is going on.
   - https://github.com/richardjm/voron-parts/tree/main/voron-2.4/FilamentLatch
 - nevermore
   - https://github.com/nevermore3d/Nevermore_Micro 
+  - https://github.com/MapleLeafMakers/KlipperMacros/blob/main/air_filter_timer.cfg
 - led case light clips (need 42 in black)
   - https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/eddie/LED_Bar_Clip/LED_Bar_Clip_Misumi_version2.stl
 - SB diffuser
