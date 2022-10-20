@@ -36,8 +36,6 @@ if not, then i would exhcnage yours to see what is going on.
     - input shaper
         - blue goes to inside of connector
     - pressure advance, etc
-- put printer on UPS
-- LAN vs wireless
 - start using bed mesh
 - Mainsail timelapse
     - https://www.youtube.com/watch?v=n-BVPidUDLI 
