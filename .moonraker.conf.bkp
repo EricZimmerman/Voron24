@@ -6,7 +6,6 @@ max_upload_size = 1024
 [machine]
 
 [file_manager]
-enable_object_processing = False
 
 [octoprint_compat]
 
@@ -54,4 +53,10 @@ path = ~/klipper_z_calibration
 origin = https://github.com/protoloft/klipper_z_calibration.git
 install_script = install.sh
 managed_services = klipper
+
+[update_manager led_effect]
+type = git_repo
+path = ~/klipper-led_effect
+origin = https://github.com/julianschill/klipper-led_effect.git
+is_system_service = False
 
