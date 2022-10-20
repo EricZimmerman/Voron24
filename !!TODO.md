@@ -68,8 +68,6 @@ if not, then i would exhcnage yours to see what is going on.
 - nevermore
   - https://github.com/nevermore3d/Nevermore_Micro 
   - https://github.com/MapleLeafMakers/KlipperMacros/blob/main/air_filter_timer.cfg
-- led case light clips (need 42 in black)
-  - https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/eddie/LED_Bar_Clip/LED_Bar_Clip_Misumi_version2.stl
 - SB diffuser
   - clear filament from LDO kit
 - z belt cover for led wire
