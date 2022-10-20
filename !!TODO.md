@@ -22,7 +22,7 @@ if not, then i would exhcnage yours to see what is going on.
     - https://github.com/majarspeed/Misc-Voron/tree/main/StealthBurner%20Umbilical%20cover
     - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/Rear_Umbilical
     - https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/CW2_SB2040_CAN_Umbilical
-    - canbut and SB/CWw2 stuff https://github.com/kejar31/VoronMods/tree/main/CB-C2
+    - canbus and SB/CWw2 stuff https://github.com/kejar31/VoronMods/tree/main/CB-C2
         - need a fan https://dfh.fm/products/sunon-mf20100v1-1000u-a99-2010-axial-fan?_pos=1&_sid=d08833795&_ss=r
 - Macro ideas
     - https://github.com/zellneralex/klipper_config/tree/master
@@ -56,7 +56,6 @@ if not, then i would exhcnage yours to see what is going on.
     - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Z_Chain_Guide_Thermistor_Mount
 - wago mounts
     - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Boingomw/Wago_mount
-- https://www.thingiverse.com/thing:2479238
 - 270 degree hinges, or other removable ones
     - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge
     - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/randell/Door_Hinges
