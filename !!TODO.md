@@ -24,6 +24,9 @@ if not, then i would exhcnage yours to see what is going on.
     - https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/CW2_SB2040_CAN_Umbilical
     - canbus and SB/CWw2 stuff https://github.com/kejar31/VoronMods/tree/main/CB-C2
         - need a fan https://dfh.fm/products/sunon-mf20100v1-1000u-a99-2010-axial-fan?_pos=1&_sid=d08833795&_ss=r
+    - Rear cable mount
+        - https://github.com/hartk1213/MISC/blob/main/Voron%20Mods/Archived/Voron2.4_umbilical_strain_relief(OLD)/STL/A_Drive/%5Ba%5D_pigtail_cable_cover.stl
+        - https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/CW2_SB2040_CAN_Umbilical/STLs
 - Macro ideas
     - https://github.com/zellneralex/klipper_config/tree/master
     - https://docs.vorondesign.com/community/macros/macros/120decibell.html
