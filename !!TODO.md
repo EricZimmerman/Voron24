@@ -6,6 +6,11 @@ if you are switching to CW2,  then at that time, i would :
 if not, then i would exhcnage yours to see what is going on.
 
 ## General
+- mandela plate with magnets
+    - https://mandalaroseworks.com/products/voron-350-ultraflat-bed
+    - build plate https://west3d.com/products/double-sided-texture-smooth-flex-plate-with-3m-magnetic-backing-energetic-west3d-collab?variant=41130207445160 (NO MAGNET)
+    - https://www.fabreeko.com/collections/pei/products/honeybadger-v2-4-single-sided-black-pei-textured?variant=42614568452351
+    - https://dfh.fm/products/silicone-heating-pad?_pos=10&_sid=da818c221&_ss=r
 - igus cables direct
     - https://www.igus.com/product?artNr=CF10-05-04
 - sensorless end stops for x and y
