@@ -49,8 +49,8 @@ if not, then i would exhcnage yours to see what is going on.
 ## TO PRINT
 - thermistor mount for chamber temp
     - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Z_Chain_Guide_Thermistor_Mount
-- wago mounts
-    - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Boingomw/Wago_mount
+- ~~wago mounts~~
+    - ~~https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Boingomw/Wago_mount~~
 - 270 degree hinges, or other removable ones
     - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge
     - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/randell/Door_Hinges
