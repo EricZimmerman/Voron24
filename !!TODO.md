@@ -36,10 +36,10 @@ if not, then i would exhcnage yours to see what is going on.
     - https://github.com/zellneralex/klipper_config/tree/master
     - https://docs.vorondesign.com/community/macros/macros/120decibell.html
 - FINISH ELLIS TUNING
-- Mainsail timelapse
-    - https://www.youtube.com/watch?v=n-BVPidUDLI 
-    - add to super slicer
-    - Printer Settings -> Custom G-code -> Before layer change Gcode -> TIMELAPSE_TAKE_FRAME
+- ~~Mainsail timelapse~~
+    - ~~https://www.youtube.com/watch?v=n-BVPidUDLI ~~
+    - ~~add to super slicer~~
+    - ~~Printer Settings -> Custom G-code -> Before layer change Gcode -> TIMELAPSE_TAKE_FRAME~~
 - KlipperScreen?
     - https://klipperscreen.readthedocs.io/en/latest/
 - Filament sensor
@@ -60,14 +60,12 @@ if not, then i would exhcnage yours to see what is going on.
     - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge
     - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/randell/Door_Hinges
 - purge bucket/nozzle wipe? 
-   - https://github.com/Dfdye/Voron_Mods/tree/main/Purge_Bucket_for_WP_Kinetic_Mount
-   - have one in macros already, but https://github.com/Hartk-PrinterConfigs/DoomConfig/blob/master/purge.cfg
-   - maybe not tall enough https://www.printables.com/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24
-- Quick release clips
-  - https://github.com/richardjm/voron-parts/tree/main/voron-2.4/FilamentLatch
-- nevermore
-  - https://github.com/nevermore3d/Nevermore_Micro 
-  - https://github.com/MapleLeafMakers/KlipperMacros/blob/main/air_filter_timer.cfg
+   - https://www.printables.com/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24
+- ~~Quick release clips~~
+  - ~~https://github.com/richardjm/voron-parts/tree/main/voron-2.4/FilamentLatch~~
+- ~~nevermore~~
+  - ~~https://github.com/nevermore3d/Nevermore_Micro ~~
+  - ~~https://github.com/MapleLeafMakers/KlipperMacros/blob/main/air_filter_timer.cfg~~
 - SB diffuser
   - clear filament from LDO kit
 - z belt cover for led wire
