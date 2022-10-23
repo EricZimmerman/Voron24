@@ -68,8 +68,8 @@ if not, then i would exhcnage yours to see what is going on.
   - ~~https://github.com/MapleLeafMakers/KlipperMacros/blob/main/air_filter_timer.cfg~~
 - SB diffuser
   - clear filament from LDO kit
-- z belt cover for led wire
-  - https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/z_belt_cover_a_led.stl
+- ~~z belt cover for led wire~~
+  - ~~https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/z_belt_cover_a_led.stl~~
 - ~~exhaust cover~~
   - ~~https://voronregistry.com/mods/fiction-exhaustcoversfs~~
 - nozzle holding skirt
@@ -79,8 +79,8 @@ if not, then i would exhcnage yours to see what is going on.
 - Rock and roll for electronics access
   - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/RockNLol/RockNRoll
 
-- Scraper
-  - https://www.printables.com/model/28337-scraper-for-build-plate-version-2
+- ~~Scraper~~
+  - ~~https://www.printables.com/model/28337-scraper-for-build-plate-version-2~~
 - Updated z joints with bearing
   - https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_GE5C
 
