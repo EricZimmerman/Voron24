@@ -45,7 +45,7 @@ if not, then i would exhcnage yours to see what is going on.
 - Filament sensor
     - https://www.amazon.com/dp/B07Z97582P/?coliid=I278JGHS5OD8M7&colid=3T6GGJW7T3YSG&psc=1&ref_=lv_ov_lig_dp_it
 - C920 webcam
-  - https://www.teamfdm.com/files/file/275-c920-mount/
+  - ~~https://www.teamfdm.com/files/file/275-c920-mount/~~
   - Mount under z rail https://media.discordapp.net/attachments/710952853514223617/1031599846202822697/20221016_174843.jpg
 - verify tension
     - The way I find the tension is to loosen the tension, heat up the hotend so extruder motor is energized, open the latch, insert filament, close the latch, pull. If it comes out, tighten one full turn. Pull again and repeat if it slips. Once it does not slip, add another full turn, maybe one and a half turns.
@@ -66,7 +66,7 @@ if not, then i would exhcnage yours to see what is going on.
 - ~~Quick release clips~~
   - ~~https://github.com/richardjm/voron-parts/tree/main/voron-2.4/FilamentLatch~~
 - ~~nevermore~~
-  - ~~https://github.com/nevermore3d/Nevermore_Micro ~~
+  - ~~https://github.com/nevermore3d/Nevermore_Micro~~
   - ~~https://github.com/MapleLeafMakers/KlipperMacros/blob/main/air_filter_timer.cfg~~
 - SB diffuser
   - clear filament from LDO kit
