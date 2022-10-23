@@ -52,15 +52,15 @@ if not, then i would exhcnage yours to see what is going on.
 
 
 ## TO PRINT
-- thermistor mount for chamber temp
-    - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Z_Chain_Guide_Thermistor_Mount
+- ~~thermistor mount for chamber temp~~
+    - ~~https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Z_Chain_Guide_Thermistor_Mount~~
 - ~~wago mounts~~
     - ~~https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Boingomw/Wago_mount~~
 - 270 degree hinges, or other removable ones
     - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge
     - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/randell/Door_Hinges
-- purge bucket/nozzle wipe? 
-   - https://www.printables.com/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24
+- ~~purge bucket/nozzle wipe?~~
+   - ~~https://www.printables.com/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24~~
 - ~~Quick release clips~~
   - ~~https://github.com/richardjm/voron-parts/tree/main/voron-2.4/FilamentLatch~~
 - ~~nevermore~~
@@ -70,8 +70,8 @@ if not, then i would exhcnage yours to see what is going on.
   - clear filament from LDO kit
 - z belt cover for led wire
   - https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/z_belt_cover_a_led.stl
-- exhaust cover
-  - https://voronregistry.com/mods/fiction-exhaustcoversfs
+- ~~exhaust cover~~
+  - ~~https://voronregistry.com/mods/fiction-exhaustcoversfs~~
 - nozzle holding skirt
   - https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/README.md
 - Top mount spool holder
