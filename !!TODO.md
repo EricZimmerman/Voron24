@@ -52,6 +52,8 @@ if not, then i would exhcnage yours to see what is going on.
 
 
 ## TO PRINT
+- mandela bed with wago mounts at back? slick
+    - https://github.com/Ramalama2/Voron-2-Mods/tree/main/Mandalaroseworks/BedPan
 - ~~thermistor mount for chamber temp~~
     - ~~https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Z_Chain_Guide_Thermistor_Mount~~
 - ~~wago mounts~~
