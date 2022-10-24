@@ -14,7 +14,7 @@ if not, then i would exhcnage yours to see what is going on.
     - ~~https://dfh.fm/products/silicone-heating-pad?_pos=10&_sid=da818c221&_ss=r~~
 - igus cables direct
     - https://www.igus.com/product?artNr=CF10-05-04
-- sensorless end stops for x and y
+- sensorless end stops for x and y (SEE NOTE AT END)
     - https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html
 - CANBUS WHEN CW2
     - https://github.com/maz0r/klipper_canbus/blob/main/controller/monster8v2.md
@@ -103,3 +103,27 @@ if not, then i would exhcnage yours to see what is going on.
     - https://www.fabreeko.com/products/sunon-mag-lev-4010-24v-fan?_pos=1&_psq=4010&_ss=e&_v=1.0
 - 3 of M3x6 FHCS 
     - https://www.boltdepot.com/Product-Details.aspx?product=13249
+
+
+
+I added this two jumpers, and pulled out the Y and X switches from the switches board. Then I modified printer.cfg:
+
+[stepper_x]
+...
+endstop_pin: tmc2209_stepper_x:virtual_endstop #PG6
+homing_retract_dist: 0 #5
+
+[tmc2209 stepper_x]
+...
+diag_pin: ^PG6 # sensorless homming: use the same pin that was previously the endstop_pin!
+driver_SGTHRS: 70 # sensorless homming: 255 is most sensitive value, 0 is least sensitive
+
+[stepper_y]
+...
+endstop_pin: tmc2209_stepper_y:virtual_endstop #PG9
+homing_retract_dist: 0 #5
+
+[tmc2209 stepper_y]
+...
+diag_pin: ^PG9     # sensorless homming: use the same pin that was previously the endstop_pin!
+driver_SGTHRS: 70 # sensorless homming: 255 is most sensitive value, 0 is least sensitive
