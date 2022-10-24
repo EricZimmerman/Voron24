@@ -85,6 +85,7 @@ if not, then i would exhcnage yours to see what is going on.
 - ~~Scraper~~
   - ~~https://www.printables.com/model/28337-scraper-for-build-plate-version-2~~
 - Updated z joints with bearing
+  - https://github.com/Annex-Engineering/Other_Printer_Mods/tree/master/VORON_Printers/Reinforced_Gantry_Mounts
   - https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_GE5C
     - https://kb-3d.com/store/magnets-bearings/323-igus-ge5c-spherical-bearing-eglm-05-igubal-1634423649851.html
     - https://kb-3d.com/store/inserts-fasteners-adhesives/288-5x10x1mm-shim-ring-washer-pack-of-50-din988-1634423113147.html
