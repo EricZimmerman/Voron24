@@ -6,6 +6,7 @@ if you are switching to CW2,  then at that time, i would :
 if not, then i would exhcnage yours to see what is going on.
 
 ## General
+
 - ~~mandela plate with magnets~~
     - ~~https://mandalaroseworks.com/products/voron-350-ultraflat-bed~~
     - ~~build plate https://west3d.com/products/double-sided-texture-smooth-flex-plate-with-3m-magnetic-backing-energetic-west3d-collab?variant=41130207445160 (NO MAGNET)~~
@@ -61,6 +62,7 @@ if not, then i would exhcnage yours to see what is going on.
 - 270 degree hinges, or other removable ones
     - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge
     - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/randell/Door_Hinges
+    - https://github.com/LoganFraser/VoronMods/tree/main/ParametricRemovable270Hinges
 - ~~purge bucket/nozzle wipe?~~
    - ~~https://www.printables.com/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24~~
 - ~~Quick release clips~~
@@ -76,25 +78,22 @@ if not, then i would exhcnage yours to see what is going on.
   - ~~https://voronregistry.com/mods/fiction-exhaustcoversfs~~
 - nozzle holding skirt
   - https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/README.md
-- Top mount spool holder
-  - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/elcrni/V2.4-Trident-Spool-Holders
-- Rock and roll for electronics access
-  - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/RockNLol/RockNRoll
-
+- ~~Top mount spool holder~~
+  - ~~https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/elcrni/V2.4-Trident-Spool-Holders~~
+- ~~Rock and roll for electronics access~~
+  - ~~https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/RockNLol/RockNRoll~~
 - ~~Scraper~~
   - ~~https://www.printables.com/model/28337-scraper-for-build-plate-version-2~~
 - Updated z joints with bearing
   - https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_GE5C
-
+    - https://kb-3d.com/store/magnets-bearings/323-igus-ge5c-spherical-bearing-eglm-05-igubal-1634423649851.html
+    - https://kb-3d.com/store/inserts-fasteners-adhesives/288-5x10x1mm-shim-ring-washer-pack-of-50-din988-1634423113147.html
 
 
 ## TO BUILD
 ### CW2 VERIFY AGAINST BOM at [https://vorondesign.com/voron_stealthburner](https://vorondesign.com/sourcing_guide?model=VSB)
-- hartk 2 piece pcb (got it)
-    - https://github.com/hartk1213/MISC/tree/main/PCBs/Stealthburner_Toolhead_PCB
-    - https://www.youtube.com/watch?v=PCIwZRPYMZ8
-- need motor (ordered)
-- gear kit (ordered)
+- ~~need motor (ordered)~~
+- ~~gear kit (ordered)~~
 - set ratio to 50:10
 - reprint face?
     - will need fans and leds if so
