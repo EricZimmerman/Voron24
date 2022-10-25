@@ -93,6 +93,7 @@ if not, then i would exhcnage yours to see what is going on.
 
 ## TO BUILD
 ### CW2 VERIFY AGAINST BOM at [https://vorondesign.com/voron_stealthburner](https://vorondesign.com/sourcing_guide?model=VSB)
+- Delta fan https://west3d.com/products/delta-5015-bfb0524hh-dc24-0-16a-2-pin-cooling-fan
 - ~~need motor (ordered)~~
 - ~~gear kit (ordered)~~
 - set ratio to 50:10
