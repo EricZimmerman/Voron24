@@ -49,7 +49,7 @@ grab_version(){
   fi
 }
 
-# git remote set-url origin https://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@github.com/EricZimmerman/VoronConfigs.git/
+# git remote set-url origin https://XXXXXXXXXXX@github.com/EricZimmerman/VoronConfigs.git/
 
 push_config(){
   cd $config_folder
