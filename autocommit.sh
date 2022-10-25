@@ -49,6 +49,8 @@ grab_version(){
   fi
 }
 
+# git remote set-url origin https://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@github.com/EricZimmerman/VoronConfigs.git/
+
 push_config(){
   cd $config_folder
   git pull
@@ -57,6 +59,8 @@ push_config(){
   git commit -m "Autocommit from $current_date" -m "$m1" -m "$m2" -m "$m3" -m "$m4"
   git push
 }
+
+
 
 grab_version
 push_config
