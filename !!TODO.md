@@ -105,7 +105,9 @@ if not, then i would exhcnage yours to see what is going on.
 - 3 of M3x6 FHCS 
     - https://www.boltdepot.com/Product-Details.aspx?product=13249
 
-
+# Parts URLs
+- Brushes
+    - https://www.aliexpress.us/item/2251832866802617.html?spm=2114.12010615.8148356.2.315e106dfzI86U&gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US
 
 I added this two jumpers, and pulled out the Y and X switches from the switches board. Then I modified printer.cfg:
 
