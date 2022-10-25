@@ -60,9 +60,9 @@ if not, then i would exhcnage yours to see what is going on.
 - ~~wago mounts~~
     - ~~https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Boingomw/Wago_mount~~
 - 270 degree hinges, or other removable ones
+    - https://github.com/LoganFraser/VoronMods/tree/main/ParametricRemovable270Hinges
     - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge
     - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/randell/Door_Hinges
-    - https://github.com/LoganFraser/VoronMods/tree/main/ParametricRemovable270Hinges
 - ~~purge bucket/nozzle wipe?~~
    - ~~https://www.printables.com/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24~~
 - ~~Quick release clips~~
