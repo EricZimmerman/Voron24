@@ -108,6 +108,9 @@ if not, then i would exhcnage yours to see what is going on.
 # Parts URLs
 - Brushes
     - https://www.aliexpress.us/item/2251832866802617.html?spm=2114.12010615.8148356.2.315e106dfzI86U&gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US
+- Tubing
+    - https://west3d.com/products/capricornus-ptfe-tube-1-9mm-teflonto
+    - https://west3d.com/products/bowden-ptfe-tube-4mm-od-2-5mm-id
 
 I added this two jumpers, and pulled out the Y and X switches from the switches board. Then I modified printer.cfg:
 
