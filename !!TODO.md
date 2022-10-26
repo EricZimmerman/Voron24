@@ -102,8 +102,6 @@ if not, then i would exhcnage yours to see what is going on.
     - ~~https://www.fabreeko.com/products/stealth-burner-pre-soldered-and-crimped-leds?_pos=1&_psq=led&_ss=e&_v=1.0~~
     - ~~https://kb-3d.com/store/fans/501-sunon-5015-blower-fan-24v-maglev-1646515411413.html or https://www.fabreeko.com/products/gdstime-5015-24v-blower-fan?_pos=1&_sid=76b2a2b69&_ss=r~~
     - ~~https://www.fabreeko.com/products/sunon-mag-lev-4010-24v-fan?_pos=1&_psq=4010&_ss=e&_v=1.0~~
-- 3 of M3x6 FHCS 
-    - https://www.boltdepot.com/Product-Details.aspx?product=13249
 
 # Parts URLs
 - Brushes
