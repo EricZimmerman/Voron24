@@ -59,10 +59,10 @@ if not, then i would exhcnage yours to see what is going on.
     - ~~https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Z_Chain_Guide_Thermistor_Mount~~
 - ~~wago mounts~~
     - ~~https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Boingomw/Wago_mount~~
-- 270 degree hinges, or other removable ones
-    - https://github.com/LoganFraser/VoronMods/tree/main/ParametricRemovable270Hinges
-    - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge
-    - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/randell/Door_Hinges
+- ~~270 degree hinges, or other removable ones~~
+    - ~~https://github.com/LoganFraser/VoronMods/tree/main/ParametricRemovable270Hinges~~
+    - ~~https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge~~
+    - ~~https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/randell/Door_Hinges~~
 - ~~purge bucket/nozzle wipe?~~
    - ~~https://www.printables.com/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24~~
 - ~~Quick release clips~~
@@ -70,8 +70,8 @@ if not, then i would exhcnage yours to see what is going on.
 - ~~nevermore~~
   - ~~https://github.com/nevermore3d/Nevermore_Micro~~
   - ~~https://github.com/MapleLeafMakers/KlipperMacros/blob/main/air_filter_timer.cfg~~
-- SB diffuser
-  - clear filament from LDO kit
+- ~~SB diffuser~~
+  - ~~clear filament from LDO kit~~
 - ~~z belt cover for led wire~~
   - ~~https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/z_belt_cover_a_led.stl~~
 - ~~exhaust cover~~
