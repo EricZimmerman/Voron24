@@ -7,6 +7,7 @@ if not, then i would exhcnage yours to see what is going on.
 
 ## General
 
+- what this do? https://github.com/MoppelMat/VoronMods/blob/main/chamber_temp.cfg
 - ~~mandela plate with magnets~~
     - ~~https://mandalaroseworks.com/products/voron-350-ultraflat-bed~~
     - ~~build plate https://west3d.com/products/double-sided-texture-smooth-flex-plate-with-3m-magnetic-backing-energetic-west3d-collab?variant=41130207445160 (NO MAGNET)~~
