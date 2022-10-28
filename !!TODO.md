@@ -22,8 +22,7 @@ if not, then i would exhcnage yours to see what is going on.
     - ~~build plate https://west3d.com/products/double-sided-texture-smooth-flex-plate-with-3m-magnetic-backing-energetic-west3d-collab?variant=41130207445160 (NO MAGNET)~~
     - ~~https://www.fabreeko.com/collections/pei/products/honeybadger-v2-4-single-sided-black-pei-textured?variant=42614568452351~~
     - ~~https://dfh.fm/products/silicone-heating-pad?_pos=10&_sid=da818c221&_ss=r~~
-- igus cables direct
-    - https://www.igus.com/product?artNr=CF10-05-04
+
 - sensorless end stops for x and y (SEE NOTE AT END)
     - https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html
 - CANBUS WHEN CW2
@@ -64,8 +63,6 @@ if not, then i would exhcnage yours to see what is going on.
 
 
 ## TO PRINT
-- mandela bed with wago mounts at back? slick
-    - https://github.com/Ramalama2/Voron-2-Mods/tree/main/Mandalaroseworks/BedPan
 - ~~thermistor mount for chamber temp~~
     - ~~https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Z_Chain_Guide_Thermistor_Mount~~
 - ~~wago mounts~~
@@ -96,11 +93,11 @@ if not, then i would exhcnage yours to see what is going on.
   - ~~https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/RockNLol/RockNRoll~~
 - ~~Scraper~~
   - ~~https://www.printables.com/model/28337-scraper-for-build-plate-version-2~~
-- Updated z joints with bearing
-  - https://github.com/Annex-Engineering/Other_Printer_Mods/tree/master/VORON_Printers/Reinforced_Gantry_Mounts
-  - https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_GE5C
-    - https://kb-3d.com/store/magnets-bearings/323-igus-ge5c-spherical-bearing-eglm-05-igubal-1634423649851.html
-    - https://kb-3d.com/store/inserts-fasteners-adhesives/288-5x10x1mm-shim-ring-washer-pack-of-50-din988-1634423113147.html
+- ~~Updated z joints with bearing~~
+  - ~~https://github.com/Annex-Engineering/Other_Printer_Mods/tree/master/VORON_Printers/Reinforced_Gantry_Mounts~~
+  - ~~https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_GE5C~~
+    - ~~https://kb-3d.com/store/magnets-bearings/323-igus-ge5c-spherical-bearing-eglm-05-igubal-1634423649851.html~~
+    - ~~https://kb-3d.com/store/inserts-fasteners-adhesives/288-5x10x1mm-shim-ring-washer-pack-of-50-din988-1634423113147.html~~
 
 
 ## TO BUILD
@@ -123,25 +120,26 @@ if not, then i would exhcnage yours to see what is going on.
 - Tubing
     - https://west3d.com/products/capricornus-ptfe-tube-1-9mm-teflonto
     - https://west3d.com/products/bowden-ptfe-tube-4mm-od-2-5mm-id
+- igus cables direct
+    - https://www.igus.com/product?artNr=CF10-05-04
 
 I added this two jumpers, and pulled out the Y and X switches from the switches board. Then I modified printer.cfg:
 
+```
 [stepper_x]
-...
 endstop_pin: tmc2209_stepper_x:virtual_endstop #PG6
 homing_retract_dist: 0 #5
 
 [tmc2209 stepper_x]
-...
 diag_pin: ^PG6 # sensorless homming: use the same pin that was previously the endstop_pin!
 driver_SGTHRS: 70 # sensorless homming: 255 is most sensitive value, 0 is least sensitive
 
 [stepper_y]
-...
 endstop_pin: tmc2209_stepper_y:virtual_endstop #PG9
 homing_retract_dist: 0 #5
 
 [tmc2209 stepper_y]
-...
+
 diag_pin: ^PG9     # sensorless homming: use the same pin that was previously the endstop_pin!
 driver_SGTHRS: 70 # sensorless homming: 255 is most sensitive value, 0 is least sensitive
+```
