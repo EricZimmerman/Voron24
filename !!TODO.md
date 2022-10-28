@@ -45,7 +45,6 @@ if not, then i would exhcnage yours to see what is going on.
         - https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/CW2_SB2040_CAN_Umbilical/STLs
 - Macro ideas
     - https://github.com/zellneralex/klipper_config/tree/master
-    - https://docs.vorondesign.com/community/macros/macros/120decibell.html
 - FINISH ELLIS TUNING
 - ~~Mainsail timelapse~~
     - ~~https://www.youtube.com/watch?v=n-BVPidUDLI ~~
