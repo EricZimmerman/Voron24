@@ -5,6 +5,15 @@ if you are switching to CW2,  then at that time, i would :
 2) test with 3 wire cable to one of the endstop ports. it should behave fine and be nice and cool
 if not, then i would exhcnage yours to see what is going on.
 
+### verify
+
+1. Set your switch_offset to a small value like 0.3 >>> Save & Restart
+2. run calibrate_z and take note of the z_offset value generated.
+3. Again, move your nozzle to bed center and jog until you can touch a piece of paper.
+4. Take the current z value and add the inverse to your switch_offset value. Eg Z-0.21 is 0.3+0.21 = switch_offset: 0.51 >>> Save & Restart
+5. run calibrate_z again and your z_offset value should be very close to zero.
+6. Print the first layer of something small and adjust z_offset up or down until you get a good first layer, then save that adjustment amount to switch_offset. If you moved closer to the bed, increase the value. >>> Save & Restart
+
 ## General
 
 - what this do? https://github.com/MoppelMat/VoronMods/blob/main/chamber_temp.cfg
