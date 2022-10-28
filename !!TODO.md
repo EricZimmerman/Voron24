@@ -75,6 +75,7 @@ if not, then i would exhcnage yours to see what is going on.
     - ~~https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge~~
     - ~~https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/randell/Door_Hinges~~
 - ~~purge bucket/nozzle wipe?~~
+   - ~~https://github.com/Ramalama2/Voron-2-Mods/tree/main/Mandalaroseworks/BedPan~~
    - ~~https://www.printables.com/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24~~
 - ~~Quick release clips~~
   - ~~https://github.com/richardjm/voron-parts/tree/main/voron-2.4/FilamentLatch~~
