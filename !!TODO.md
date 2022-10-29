@@ -31,6 +31,7 @@ I think this will also work...You can use the \n to do a new line so that it is 
 ## General
 
 - https://docs.vorondesign.com/community/howto/Takuya/Klicky_Probe_AutoZ_Alternative.html
+- https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers
 - ~~mandela plate with magnets~~
     - ~~https://mandalaroseworks.com/products/voron-350-ultraflat-bed~~
     - ~~build plate https://west3d.com/products/double-sided-texture-smooth-flex-plate-with-3m-magnetic-backing-energetic-west3d-collab?variant=41130207445160 (NO MAGNET)~~
