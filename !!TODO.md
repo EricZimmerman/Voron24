@@ -121,6 +121,9 @@ if not, then i would exhcnage yours to see what is going on.
     - https://west3d.com/products/bowden-ptfe-tube-4mm-od-2-5mm-id
 - igus cables direct
     - https://www.igus.com/product?artNr=CF10-05-04
+- HiWin rails
+    - https://magicphoenix.xyz/product/hiwin-mgn12h-rail-z1pm/
+    - https://magicphoenix.xyz/product/magicphoenix-mgn9h-rail440c-sus/?cgkit_search_word=mgn9
 
 I added this two jumpers, and pulled out the Y and X switches from the switches board. Then I modified printer.cfg:
 
