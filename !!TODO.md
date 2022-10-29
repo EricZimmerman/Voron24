@@ -5,6 +5,20 @@ if you are switching to CW2,  then at that time, i would :
 2) test with 3 wire cable to one of the endstop ports. it should behave fine and be nice and cool
 if not, then i would exhcnage yours to see what is going on.
 
+```
+I think this will also work...You can use the \n to do a new line so that it is not one long string...
+    {action_respond_info("Print_Start Macro Inputs:\n"
+                         "BED = %d\n" 
+                         "EXTRUDER = %d\n" 
+                         "CHAMBER = %d\n"
+                         "FL_SIZE == %s\n"
+                         "material = %s\n"
+                         "Z_Adjust = %.3f\n" 
+                         "nozzle = %.2f"\n
+                         "filament_name = %s\n" % 
+                         (BED, EXTRUDER, CHAMBER, FL_SIZE, material, z_adjust, nozzle, filament_name))}
+```
+
 ### verify
 
 1. Set your switch_offset to a small value like 0.3 >>> Save & Restart
