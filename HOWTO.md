@@ -1,4 +1,4 @@
-# Update klipper firmware
+# Update klipper firmware from the pi
 
 1. Update all software
 2. Run this
