@@ -11,13 +11,13 @@ make menuconfig
 
 3. Set options per image below
 5. Q and save when prompted
-6. Flash with comand below
+6. Flash with comand below (ADJUST YOUR ID ACCORDINGLY)
 7. ???
 8. Profit
 
 ```
 sudo service klipper stop
-make flash FLASH_DEVICE=/dev/serial/by-id/usb-1a86_USB2.0-Serial-if00-port0
+make flash FLASH_DEVICE=/dev/serial/by-id/usb-Klipper_stm32f446xx_310012001550324E31333220-if00
 sudo service klipper start
 ```
 
