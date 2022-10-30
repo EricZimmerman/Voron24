@@ -72,6 +72,7 @@ I think this will also work...You can use the \n to do a new line so that it is 
 
 
 ## TO PRINT
+- https://github.com/selliott79/Other-V2-Idlers
 - ~~thermistor mount for chamber temp~~
     - ~~https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Z_Chain_Guide_Thermistor_Mount~~
 - ~~wago mounts~~
