@@ -1,9 +1,4 @@
-## Debug
 
-if you are switching to CW2,  then at that time, i would :
-1) dbl check no shorts in soldering
-2) test with 3 wire cable to one of the endstop ports. it should behave fine and be nice and cool
-if not, then i would exhcnage yours to see what is going on.
 
 ```
 I think this will also work...You can use the \n to do a new line so that it is not one long string...
@@ -119,9 +114,9 @@ I think this will also work...You can use the \n to do a new line so that it is 
 - ~~Delta fan https://west3d.com/products/delta-5015-bfb0524hh-dc24-0-16a-2-pin-cooling-fan~~
 - ~~need motor (ordered)~~
 - ~~gear kit (ordered)~~
-- set ratio to 50:10
-- reprint face?
-    - will need fans and leds if so
+- ~~set ratio to 50:10~~
+- ~~reprint face?~~
+    - ~~will need fans and leds if so~~
     - ~~https://www.fabreeko.com/products/stealth-burner-pre-soldered-and-crimped-leds?_pos=1&_psq=led&_ss=e&_v=1.0~~
     - ~~https://kb-3d.com/store/fans/501-sunon-5015-blower-fan-24v-maglev-1646515411413.html or https://www.fabreeko.com/products/gdstime-5015-24v-blower-fan?_pos=1&_sid=76b2a2b69&_ss=r~~
     - ~~https://www.fabreeko.com/products/sunon-mag-lev-4010-24v-fan?_pos=1&_psq=4010&_ss=e&_v=1.0~~
@@ -139,24 +134,3 @@ I think this will also work...You can use the \n to do a new line so that it is 
 - HiWin rails
     - https://magicphoenix.xyz/product/hiwin-mgn12h-rail-z1pm/
     - https://magicphoenix.xyz/product/magicphoenix-mgn9h-rail440c-sus/?cgkit_search_word=mgn9
-
-I added this two jumpers, and pulled out the Y and X switches from the switches board. Then I modified printer.cfg:
-
-```
-[stepper_x]
-endstop_pin: tmc2209_stepper_x:virtual_endstop #PG6
-homing_retract_dist: 0 #5
-
-[tmc2209 stepper_x]
-diag_pin: ^PG6 # sensorless homming: use the same pin that was previously the endstop_pin!
-driver_SGTHRS: 70 # sensorless homming: 255 is most sensitive value, 0 is least sensitive
-
-[stepper_y]
-endstop_pin: tmc2209_stepper_y:virtual_endstop #PG9
-homing_retract_dist: 0 #5
-
-[tmc2209 stepper_y]
-
-diag_pin: ^PG9     # sensorless homming: use the same pin that was previously the endstop_pin!
-driver_SGTHRS: 70 # sensorless homming: 255 is most sensitive value, 0 is least sensitive
-```
