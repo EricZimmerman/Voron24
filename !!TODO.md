@@ -33,8 +33,8 @@ I think this will also work...You can use the \n to do a new line so that it is 
     - ~~https://www.fabreeko.com/collections/pei/products/honeybadger-v2-4-single-sided-black-pei-textured?variant=42614568452351~~
     - ~~https://dfh.fm/products/silicone-heating-pad?_pos=10&_sid=da818c221&_ss=r~~
 
-- sensorless end stops for x and y (SEE NOTE AT END)
-    - https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html
+- ~~sensorless end stops for x and y (SEE NOTE AT END)~~
+    - ~~https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html~~
 - CANBUS WHEN CW2
     - https://www.printables.com/model/279739-voron-can-bus-z-chain-move
     - https://github.com/maz0r/klipper_canbus/blob/main/controller/monster8v2.md
