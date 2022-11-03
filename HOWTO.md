@@ -12,6 +12,9 @@ https://github.com/LoganFraser/VoronMods/tree/main/KlickySetup
 - Pull again and repeat if it slips
 - Once it does not slip, add another full turn, maybe one and a half turns
 
+# Macros
+- https://github.com/ViThreeDimension/voron2.4/blob/feature/print-start-filament-type-dependant/klipper/client_macros.cfg
+
 # Update klipper firmware from the pi
 
 1. Update all software
