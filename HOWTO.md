@@ -1,3 +1,17 @@
+#  Klicky stuff
+https://github.com/LoganFraser/VoronMods/tree/main/KlickySetup
+
+# Verify extruder tension
+
+- Loosen the tension
+- Heat up the hotend so extruder motor is energized
+- Open the latch
+- Insert filament
+- Close the latch and pull
+- If it comes out, tighten one full turn
+- Pull again and repeat if it slips
+- Once it does not slip, add another full turn, maybe one and a half turns
+
 # Update klipper firmware from the pi
 
 1. Update all software
