@@ -114,6 +114,8 @@ I think this will also work...You can use the \n to do a new line so that it is 
     - ~~https://www.fabreeko.com/products/sunon-mag-lev-4010-24v-fan?_pos=1&_psq=4010&_ss=e&_v=1.0~~
 
 # Parts URLs
+- Build plates
+    - https://www.filamentone.com/products/ultistik-premium-powder-coated-ultem-pei-build-plate-355-x-355-voron-sovol-sv03
 - Brushes
     - https://www.aliexpress.us/item/2251832866802617.html?spm=2114.12010615.8148356.2.315e106dfzI86U&gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US
     - https://www.amazon.com/uxcell%C2%AE-Length-Plastic-Handle-Bristle/dp/B00X9HY5D4
@@ -121,8 +123,11 @@ I think this will also work...You can use the \n to do a new line so that it is 
 - Tubing
     - https://west3d.com/products/capricornus-ptfe-tube-1-9mm-teflonto
     - https://west3d.com/products/bowden-ptfe-tube-4mm-od-2-5mm-id
-- igus cables direct
+- Igus cables direct
     - https://www.igus.com/product?artNr=CF10-05-04
 - HiWin rails
     - https://magicphoenix.xyz/product/hiwin-mgn12h-rail-z1pm/
     - https://magicphoenix.xyz/product/magicphoenix-mgn9h-rail440c-sus/?cgkit_search_word=mgn9
+- Other rails
+    - https://west3d.com/products/west3d-printing-mgn12h-1r-300-350-400-linear-rails-with-carriages?variant=42096413376724
+    - fabreeko HBs
