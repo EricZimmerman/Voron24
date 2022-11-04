@@ -57,6 +57,7 @@ I think this will also work...You can use the \n to do a new line so that it is 
 - Filament sensor
     - https://www.amazon.com/dp/B07Z97582P/?coliid=I278JGHS5OD8M7&colid=3T6GGJW7T3YSG&psc=1&ref_=lv_ov_lig_dp_it
     - https://www.printables.com/en/model/231626-bigtreetech-smart-filament-sensor-sfs-bracket-for-/files
+    - https://www.teamfdm.com/files/file/417-exhaust-cover-sfs/
 - ~~C920 webcam~~
   - ~~https://www.teamfdm.com/files/file/275-c920-mount/~~
   - ~~Mount under z rail https://media.discordapp.net/attachments/710952853514223617/1031599846202822697/20221016_174843.jpg~~
