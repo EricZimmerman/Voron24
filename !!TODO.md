@@ -36,6 +36,7 @@ I think this will also work...You can use the \n to do a new line so that it is 
     - https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/beefy_raspberry_bracket.stl
     - https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Electronics_Bay/pcb_din_clip_x3.stl
     - https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/toolhead_breakout_pcb_bracket.stl
+    - https://www.teamfdm.com/files/file/601-bowden-tube-guide/
     - https://github.com/KayosMaker/CANboard_Mounts
     - https://github.com/majarspeed/Misc-Voron/tree/main/StealthBurner%20Umbilical%20cover
     - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/Rear_Umbilical
