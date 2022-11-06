@@ -15,6 +15,21 @@ https://github.com/LoganFraser/VoronMods/tree/main/KlickySetup
 # Macros
 - https://github.com/ViThreeDimension/voron2.4/blob/feature/print-start-filament-type-dependant/klipper/client_macros.cfg
 
+# Update klipper firmware ON the pi (mcu)
+
+1. cd ~/klipper
+2. make clean
+3. make menuconfig
+4. set microarchitechture to Linux process
+5. save and exit
+6. Run command below
+
+```
+sudo service klipper stop
+make flash
+sudo service klipper start
+```
+
 # Update klipper firmware from the pi
 
 1. Update all software
