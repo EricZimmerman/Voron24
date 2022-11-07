@@ -28,6 +28,7 @@ I think this will also work...You can use the \n to do a new line so that it is 
 - ~~sensorless end stops for x and y (SEE NOTE AT END)~~
     - ~~https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html~~
 - CANBUS WHEN CW2
+    - https://github.com/Alexander-T-Moss/Voron-Stuff/tree/main/Mods/%23%20SB2040%20Cooling/STLs
     - https://www.printables.com/model/279739-voron-can-bus-z-chain-move
     - https://github.com/maz0r/klipper_canbus/blob/main/controller/monster8v2.md
     - https://github.com/maz0r/klipper_canbus/blob/main/toolhead/ebb36-42_v1.1.md
