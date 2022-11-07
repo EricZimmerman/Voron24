@@ -60,6 +60,11 @@ I think this will also work...You can use the \n to do a new line so that it is 
     - https://www.amazon.com/dp/B07Z97582P/?coliid=I278JGHS5OD8M7&colid=3T6GGJW7T3YSG&psc=1&ref_=lv_ov_lig_dp_it
     - https://www.printables.com/en/model/231626-bigtreetech-smart-filament-sensor-sfs-bracket-for-/files
     - https://www.teamfdm.com/files/file/417-exhaust-cover-sfs/
+- Nice screen, what mods to mount it?
+    - https://www.amazon.com/BIGTREETECH-Screen-Display-800x480-Raspberry/dp/B08FD2YZ23/ref=sr_1_3?crid=10KRTBYWNXMOD&keywords=tft50&qid=1667860109&sprefix=tft50%2Caps%2C67&sr=8-3&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840
+    - cheaper still! https://www.aliexpress.us/item/3256801084054417.html
+    - Find the case with the cutout on the bottom for brightness
+    - https://www.teamfdm.com/files/file/31-btt-pitft50-v2-mount/
 - ~~C920 webcam~~
   - ~~https://www.teamfdm.com/files/file/275-c920-mount/~~
   - ~~Mount under z rail https://media.discordapp.net/attachments/710952853514223617/1031599846202822697/20221016_174843.jpg~~
