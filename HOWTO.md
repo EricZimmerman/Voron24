@@ -14,6 +14,7 @@ https://github.com/LoganFraser/VoronMods/tree/main/KlickySetup
 
 # Macros
 - https://github.com/ViThreeDimension/voron2.4/blob/feature/print-start-filament-type-dependant/klipper/client_macros.cfg
+- https://github.com/majarspeed/Profiles-Gcode-Macros/tree/main/Beeper%20tunes
 
 # Update klipper firmware ON the pi (mcu)
 
