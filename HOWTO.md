@@ -34,7 +34,7 @@ sudo service klipper start
 # Update klipper firmware from the pi
 
 1. Update all software
-2. Run this
+2. Run these commands and set options per image below
 
 ```
 cd ~/klipper
@@ -42,8 +42,8 @@ make clean
 make menuconfig
  ```
 
-3. Set options per image below
-5. Q and save when prompted
+4. Q and save when prompted
+5. Run `make` to build the firmware
 6. Flash with comand below (ADJUST YOUR ID ACCORDINGLY. You can get it with **ls /dev/serial/by-id/** command in the shell)
 7. ???
 8. Profit
