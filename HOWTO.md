@@ -44,7 +44,7 @@ make menuconfig
 
 3. Set options per image below
 5. Q and save when prompted
-6. Flash with comand below (ADJUST YOUR ID ACCORDINGLY)
+6. Flash with comand below (ADJUST YOUR ID ACCORDINGLY. You can get it with **ls /dev/serial/by-serial/** command in the shell)
 7. ???
 8. Profit
 
