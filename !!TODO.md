@@ -27,6 +27,7 @@ I think this will also work...You can use the \n to do a new line so that it is 
 - ~~sensorless end stops for x and y (SEE NOTE AT END)~~
     - ~~https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html~~
 - CANBUS WHEN CW2
+    - GOOD https://github.com/cruiten/Voron-Related/tree/main/CANbus/Documentation/Umbilical
     - https://github.com/Alexander-T-Moss/Voron-Stuff/tree/main/Mods/%23%20SB2040%20Cooling/STLs
     - https://github.com/allenrowand/voron_mods/tree/main/v2.4
     - https://www.printables.com/model/279739-voron-can-bus-z-chain-move
@@ -72,7 +73,6 @@ I think this will also work...You can use the \n to do a new line so that it is 
 
 
 ## TO PRINT
-- https://github.com/selliott79/Other-V2-Idlers
 - ~~thermistor mount for chamber temp~~
     - ~~https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Z_Chain_Guide_Thermistor_Mount~~
 - ~~wago mounts~~
@@ -111,7 +111,7 @@ I think this will also work...You can use the \n to do a new line so that it is 
 
 
 ## TO BUILD
-### CW2 VERIFY AGAINST BOM at [https://vorondesign.com/voron_stealthburner](https://vorondesign.com/sourcing_guide?model=VSB)
+~~### CW2 VERIFY AGAINST BOM at [https://vorondesign.com/voron_stealthburner](https://vorondesign.com/sourcing_guide?model=VSB)~~
 - ~~Delta fan https://west3d.com/products/delta-5015-bfb0524hh-dc24-0-16a-2-pin-cooling-fan~~
 - ~~need motor (ordered)~~
 - ~~gear kit (ordered)~~
