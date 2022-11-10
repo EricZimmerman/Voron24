@@ -17,6 +17,8 @@ I think this will also work...You can use the \n to do a new line so that it is 
 
 ## General
 
+- Bed fans
+    - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans
 - https://docs.vorondesign.com/community/howto/Takuya/Klicky_Probe_AutoZ_Alternative.html
 - ~~mandela plate with magnets~~
     - ~~https://mandalaroseworks.com/products/voron-350-ultraflat-bed~~
