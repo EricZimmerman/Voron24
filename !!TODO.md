@@ -140,3 +140,5 @@ I think this will also work...You can use the \n to do a new line so that it is 
 - Other rails
     - https://west3d.com/products/west3d-printing-mgn12h-1r-300-350-400-linear-rails-with-carriages?variant=42096413376724
     - fabreeko HBs
+- Good fans
+    - https://www.digikey.ca/en/products/detail/orion-fans/OD4010-24HB01A/2621114
