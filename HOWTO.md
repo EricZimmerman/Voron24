@@ -19,9 +19,9 @@ https://github.com/LoganFraser/VoronMods/tree/main/KlickySetup
 # Update klipper firmware ON the pi (mcu)
 
 1. cd ~/klipper
-2. make clean
-3. make menuconfig
-4. set microarchitechture to Linux process
+2. type `make clean`
+3. type `make menuconfig`
+4. set **microarchitechture** to `Linux process`
 5. save and exit
 6. Run command below
 
@@ -34,7 +34,7 @@ sudo service klipper start
 # Update klipper firmware from the pi
 
 1. Update all software
-2. Run this
+2. Run these commands and set options per image below
 
 ```
 cd ~/klipper
@@ -42,11 +42,10 @@ make clean
 make menuconfig
  ```
 
-3. Set options per image below
-5. Q and save when prompted
-6. Flash with comand below (ADJUST YOUR ID ACCORDINGLY)
-7. ???
-8. Profit
+4. Q and save when prompted
+5. Flash with comand below (ADJUST YOUR ID ACCORDINGLY. You can get it with **ls /dev/serial/by-id/** command in the shell)
+6. ???
+7. Profit
 
 ```
 sudo service klipper stop
@@ -54,5 +53,6 @@ make flash FLASH_DEVICE=/dev/serial/by-id/usb-Klipper_stm32f446xx_31001200155032
 sudo service klipper start
 ```
 
+On restart, klipper should show most current version in Mailsail
 
 ![image](https://user-images.githubusercontent.com/4265254/198883349-bb3c9e14-1339-4a10-8706-6c6e036a2dcb.png)
