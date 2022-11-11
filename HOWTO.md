@@ -1,5 +1,6 @@
-#  Klicky stuff
-https://github.com/LoganFraser/VoronMods/tree/main/KlickySetup
+#  Klicky/auto z stuff
+- https://gist.github.com/conlank/7904ba9529a27b03d707d3a6417877df#klipper-z-calibration
+- https://github.com/LoganFraser/VoronMods/tree/main/KlickySetup
 
 # Verify extruder tension
 
