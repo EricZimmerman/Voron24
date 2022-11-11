@@ -49,6 +49,10 @@ grab_version(){
   fi
 }
 
+# To fully automate this and not have to deal with auth issues, generate a legacy token on Github
+# then update the command below to use the token. Run the command in your base directory and it will
+# handle auth. This should just be executed in your shell and not committed to any files or 
+# Github will revoke the token. =)
 # git remote set-url origin https://XXXXXXXXXXX@github.com/EricZimmerman/VoronConfigs.git/
 
 push_config(){
