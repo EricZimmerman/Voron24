@@ -13,6 +13,9 @@
 - Pull again and repeat if it slips
 - Once it does not slip, add another full turn, maybe one and a half turns
 
+# Frequency tester
+- https://gist.github.com/EricZimmerman/d6bf8a4b0a200611f3d9aa308a31e3c1
+
 # Macros
 - https://github.com/ViThreeDimension/voron2.4/blob/feature/print-start-filament-type-dependant/klipper/client_macros.cfg
 - https://github.com/majarspeed/Profiles-Gcode-Macros/tree/main/Beeper%20tunes
