@@ -20,14 +20,7 @@ I think this will also work...You can use the \n to do a new line so that it is 
 - Bed fans
     - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans
 - https://docs.vorondesign.com/community/howto/Takuya/Klicky_Probe_AutoZ_Alternative.html
-- ~~mandela plate with magnets~~
-    - ~~https://mandalaroseworks.com/products/voron-350-ultraflat-bed~~
-    - ~~build plate https://west3d.com/products/double-sided-texture-smooth-flex-plate-with-3m-magnetic-backing-energetic-west3d-collab?variant=41130207445160 (NO MAGNET)~~
-    - ~~https://www.fabreeko.com/collections/pei/products/honeybadger-v2-4-single-sided-black-pei-textured?variant=42614568452351~~
-    - ~~https://dfh.fm/products/silicone-heating-pad?_pos=10&_sid=da818c221&_ss=r~~
 
-- ~~sensorless end stops for x and y (SEE NOTE AT END)~~
-    - ~~https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html~~
 - CANBUS WHEN CW2
     - GOOD https://github.com/cruiten/Voron-Related/tree/main/CANbus/Documentation/Umbilical
     - https://github.com/Alexander-T-Moss/Voron-Stuff/tree/main/Mods/%23%20SB2040%20Cooling/STLs
@@ -75,58 +68,14 @@ I think this will also work...You can use the \n to do a new line so that it is 
 
 
 ## TO PRINT
-- ~~BedFans~~
-    - ~~https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans~~
-- ~~thermistor mount for chamber temp~~
-    - ~~https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Z_Chain_Guide_Thermistor_Mount~~
-- ~~wago mounts~~
-    - ~~https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Boingomw/Wago_mount~~
-- ~~270 degree hinges, or other removable ones~~
-    - ~~https://github.com/LoganFraser/VoronMods/tree/main/ParametricRemovable270Hinges~~
-    - ~~https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge~~
-    - ~~https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/randell/Door_Hinges~~
-- ~~purge bucket/nozzle wipe?~~
-   - ~~https://github.com/Ramalama2/Voron-2-Mods/tree/main/Mandalaroseworks/BedPan~~
-   - ~~https://www.printables.com/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24~~
-- ~~Quick release clips~~
-  - ~~https://github.com/richardjm/voron-parts/tree/main/voron-2.4/FilamentLatch~~
-- ~~nevermore~~
-  - ~~https://github.com/nevermore3d/Nevermore_Micro~~
-  - ~~https://github.com/MapleLeafMakers/KlipperMacros/blob/main/air_filter_timer.cfg~~
-- ~~SB diffuser~~
-  - ~~clear filament from LDO kit~~
-- ~~z belt cover for led wire~~
-  - ~~https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/z_belt_cover_a_led.stl~~
-- ~~exhaust cover~~
-  - ~~https://voronregistry.com/mods/fiction-exhaustcoversfs~~
+
 - nozzle holding skirt
   - https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/README.md
-- ~~Top mount spool holder~~
-  - ~~https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/elcrni/V2.4-Trident-Spool-Holders~~
-- ~~Rock and roll for electronics access~~
-  - ~~https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/RockNLol/RockNRoll~~
-- ~~Scraper~~
-  - ~~https://www.printables.com/model/28337-scraper-for-build-plate-version-2~~
-- ~~Updated z joints with bearing~~
-  - ~~https://github.com/Annex-Engineering/Other_Printer_Mods/tree/master/VORON_Printers/Reinforced_Gantry_Mounts~~
-  - ~~https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_GE5C~~
-    - ~~https://kb-3d.com/store/magnets-bearings/323-igus-ge5c-spherical-bearing-eglm-05-igubal-1634423649851.html~~
-    - ~~https://kb-3d.com/store/inserts-fasteners-adhesives/288-5x10x1mm-shim-ring-washer-pack-of-50-din988-1634423113147.html~~
-
 
 ## TO BUILD
-~~### CW2 VERIFY AGAINST BOM at [https://vorondesign.com/voron_stealthburner](https://vorondesign.com/sourcing_guide?model=VSB)~~
-- ~~Delta fan https://west3d.com/products/delta-5015-bfb0524hh-dc24-0-16a-2-pin-cooling-fan~~
-- ~~need motor (ordered)~~
-- ~~gear kit (ordered)~~
-- ~~set ratio to 50:10~~
-- ~~reprint face?~~
-    - ~~will need fans and leds if so~~
-    - ~~https://www.fabreeko.com/products/stealth-burner-pre-soldered-and-crimped-leds?_pos=1&_psq=led&_ss=e&_v=1.0~~
-    - ~~https://kb-3d.com/store/fans/501-sunon-5015-blower-fan-24v-maglev-1646515411413.html or https://www.fabreeko.com/products/gdstime-5015-24v-blower-fan?_pos=1&_sid=76b2a2b69&_ss=r~~
-    - ~~https://www.fabreeko.com/products/sunon-mag-lev-4010-24v-fan?_pos=1&_psq=4010&_ss=e&_v=1.0~~
 
 # Parts URLs
+- https://kb-3d.com/store/inserts-fasteners-adhesives/288-5x10x1mm-shim-ring-washer-pack-of-50-din988-1634423113147.html
 - Build plates
     - https://www.filamentone.com/products/ultistik-premium-powder-coated-ultem-pei-build-plate-355-x-355-voron-sovol-sv03
 - Brushes
