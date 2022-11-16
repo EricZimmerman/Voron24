@@ -68,7 +68,8 @@ I think this will also work...You can use the \n to do a new line so that it is 
 
 
 ## TO PRINT
-
+- clips
+    - https://github.com/Annex-Engineering/Other_Printer_Mods/tree/master/All_Printers/Annex_Panel_2020_Clips_and_Hinges
 - nozzle holding skirt
   - https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/README.md
 
