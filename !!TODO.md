@@ -17,8 +17,6 @@ I think this will also work...You can use the \n to do a new line so that it is 
 
 ## General
 
-- Bed fans
-    - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans
 - https://docs.vorondesign.com/community/howto/Takuya/Klicky_Probe_AutoZ_Alternative.html
 
 - CANBUS WHEN CW2
@@ -45,7 +43,7 @@ I think this will also work...You can use the \n to do a new line so that it is 
         - https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/CW2_SB2040_CAN_Umbilical/STLs
 - Macro ideas
     - https://github.com/zellneralex/klipper_config/tree/master
-- FINISH ELLIS TUNING
+- ~~FINISH ELLIS TUNING~~
 - ~~Mainsail timelapse~~
     - ~~https://www.youtube.com/watch?v=n-BVPidUDLI ~~
     - ~~add to super slicer~~
