@@ -66,7 +66,8 @@ I think this will also work...You can use the \n to do a new line so that it is 
 
 
 ## TO PRINT
-
+- clips?
+    - https://github.com/v6cl/My-Voron2.4-Customs/blob/main/InteriorStuff/Panel_Locker/v2_Thin%20Locker/Thin_Locker_5.5mm.stl
 - nozzle holding skirt
   - https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/README.md
 
