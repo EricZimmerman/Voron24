@@ -74,6 +74,7 @@ I think this will also work...You can use the \n to do a new line so that it is 
 ## TO BUILD
 
 # Parts URLs
+- https://www.printedsolid.com/products/bofa-3d-print-pro-3-fume-extraction
 - https://kb-3d.com/store/inserts-fasteners-adhesives/288-5x10x1mm-shim-ring-washer-pack-of-50-din988-1634423113147.html
 - Extrusion nuts
     - https://www.dold-mechatronik.de/Standard-connector-20-I-type-groove-5-incl-Mounting-kit
