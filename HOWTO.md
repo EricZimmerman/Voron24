@@ -6,6 +6,9 @@
 - https://github.com/sporkus/probe_accuracy_tests/tree/master
 - https://github.com/KiloQubit/probe_accuracy
 
+# Input shaper
+- https://www.youtube.com/watch?v=M-yc_XM8sP4
+
 # Verify extruder tension
 
 - Loosen the tension
