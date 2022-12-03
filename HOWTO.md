@@ -2,6 +2,10 @@
 - https://gist.github.com/conlank/7904ba9529a27b03d707d3a6417877df#klipper-z-calibration
 - https://github.com/LoganFraser/VoronMods/tree/main/KlickySetup
 
+# Probe Testing
+- https://github.com/sporkus/probe_accuracy_tests/tree/master
+- https://github.com/KiloQubit/probe_accuracy
+
 # Verify extruder tension
 
 - Loosen the tension
