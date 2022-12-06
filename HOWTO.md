@@ -11,7 +11,7 @@
 
 # Useful stuff
 - Z Locks for gantry work
- - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/tallman5/z-locks/
+  - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/tallman5/z-locks/
 
 # Verify extruder tension
 
