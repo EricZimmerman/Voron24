@@ -9,6 +9,10 @@
 # Input shaper
 - https://www.youtube.com/watch?v=M-yc_XM8sP4
 
+# Useful stuff
+- Z Locks for gantry work
+ - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/tallman5/z-locks/
+
 # Verify extruder tension
 
 - Loosen the tension
