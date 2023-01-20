@@ -68,7 +68,10 @@ Make your cable and route it however you want. Some people use a glad back the A
 
 Next up is wiring up the plugs for the CAN cable. Refer to the following images from GadgetAngel:
 
-![image](https://user-images.githubusercontent.com/4265254/213817745-aa9538a4-3514-4722-9ea6-e516d97aa357.png)
+![image](https://user-images.githubusercontent.com/4265254/213820399-95616f29-eccd-40ab-8a78-5ed4f9fe95a3.png)
+
+![image](https://user-images.githubusercontent.com/4265254/213820413-6fae73af-ae0e-40b9-a9ae-c058309c8147.png)
+
 
 TRIPLE CHECK your plarity and wiring here. The BTT stuff is not the same on both sides.
 
