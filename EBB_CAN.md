@@ -19,7 +19,7 @@ iface can0 can static
  pre-up ip link set can0 txqueuelen 256
  ```
 
-3. Save the file with `CTRL-x' and reboot the pi with `sudo reboot`
+3. Save the file with `CTRL-x` and reboot the pi with `sudo reboot`
 
 4. Verify the network via `ip -s link show can0` which should reflect that the CAN network is UP
 
