@@ -46,13 +46,13 @@ have to touch the U2C again
   - Success
 3. When this is done, ADD THE JUMPER for the 120 ohm resistor to the U2C and set the U2C aside
 
-# Ebb
+# EBB
 
 Go to https://github.com/maz0r/klipper_canbus/blob/main/toolhead/ebb36-42_v1.1.md and do what it says, with the following changes:
 
 1. Use a CAN bus speed of 1000000 everywhere the guide shows 500000
 2. When you get to step 7, STOP after disconnecting the board from USB
-3. 3. When this is done, ADD THE JUMPER for the 120 ohm resistor to the U2C and set the EBB aside
+3. When this is done, ADD THE JUMPER for the 120 ohm resistor to the EBB and set the EBB aside
 
 # Connecting all the things
 
