@@ -92,11 +92,11 @@ Once you have the cable wired up (I used the molex connection), plug it into the
 
 # Verifying you see CanBoot and flashing Klipper to the Ebb
 
-(Some steps taken from https://github.com/maz0r/klipper_canbus/blob/main/toolhead/ebb36-42_v1.1.md, which you should review as well)
+(Some steps taken from [here](https://github.com/maz0r/klipper_canbus/blob/main/toolhead/ebb36-42_v1.1.md), which you should review as well)
 
 At this point, after checking twice that everything is connected correctly, power up the printer and SSH into the pi.
 
-1. Open this webpage: https://github.com/maz0r/klipper_canbus/blob/main/toolhead/ebb36-42_v1.1.md
+1. Open [this](https://github.com/maz0r/klipper_canbus/blob/main/toolhead/ebb36-42_v1.1.md) webpage
 2. Scroll down to step 9
 3. Do what it says, making sure to use a CAN bus speed of `1000000` vs 500000
 4. Follow the rest of the page until the end, where it directs you to the config file
