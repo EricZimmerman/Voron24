@@ -56,9 +56,11 @@ Go to https://github.com/maz0r/klipper_canbus/blob/main/toolhead/ebb36-42_v1.1.m
 
 # Connecting all the things
 
-For my setup, I chose to wire things like this.
+For my setup, I chose to wire things as shown below.
 
 I have 24v and ground going INTO the U2C to supply voltage to all the other connectors. I then use all 4 wires on the Molex connector to take power and CAN signals to the EBB. The U2C is powered by the USB connection tho, so do not forget that.
+
+NOTE: Once you connect your U2C to USB, you should see two little lights turn on. If you do not see this, you may have a bad USB cable.
 
 ![image](https://user-images.githubusercontent.com/4265254/213817757-1c06da9b-09d2-4e6c-9193-34c6f895c70f.png)
 
