@@ -13,6 +13,10 @@ Why write this? its a pretty common setup and it can be confusing/easy to miss s
 5. USB cables
 6. A Voron
 
+It is recommended you do as much of this work OUTSIDE your printer. In other words, do not rip out everything from your working printer to see if you can get CAN working. Rather, set all this up next to the printer. Yes this may involve making some short wire runs to connect things, but its worth it, especially if you ned to print things for mounting and so on.
+
+If you do not have a bench power supply, consider getting one as this can make your life a lot easier. Otherwise just wire up power off your printer's PSU. I personally have a USB keystone jack coming off the back of my printer that goes to my Pi, but if not, just run a temporary connection from under the deck to your Pi for the boards.
+
 # Pi
 
 Summarized from [here](https://github.com/maz0r/klipper_canbus/blob/main/controller/u2c.md)
