@@ -133,7 +133,7 @@ off_below: 0.10
 
 and change it to
 
-``
+```
 ## PART COOLING TEST
 [fan_generic fantest]
 pin: can0:FAN1
