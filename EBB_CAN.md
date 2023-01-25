@@ -182,6 +182,6 @@ In order for the config to match the physical connection on the board.
 
 Once all these changes are made and saved, simply add an [include] for the new EBB related cfg file, then save and restart. Once Klipper restarts you should see a new fan in Mainsail for fantest. Assuming you have connected a fan to the correct pin, you should be able to move the slider and see the fan react!
 
-Once happy with your testing, be sure to reverse the changes you made so the fan is a [fan].
+Once happy with your testing, be sure to reverse the changes you made so that `fantest` is a [fan] again.
 
 You are now ready to rewire your toolhead to the EBB36! Now wire it up, TEST TEST TEST, and then rip out those drag chains! =)
