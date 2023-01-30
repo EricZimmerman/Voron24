@@ -107,7 +107,7 @@ At this point, after checking twice that everything is connected correctly, powe
 
 ```
 cd ~/printer_data/config
-wget https://github.com/maz0r/klipper_canbus/blob/main/toolhead/example_configs/toolhead_btt_ebbcan_G0B1_v1.2.cfg
+wget https://raw.githubusercontent.com/maz0r/klipper_canbus/main/toolhead/example_configs/toolhead_btt_ebbcan_G0B1_v1.2.cfg
 ```
 
 2. Edit the file using nano
