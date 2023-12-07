@@ -1,4 +1,4 @@
 saved_variables.cfg
-adxl_results/belts/*.csv
-adxl_results/vibrations/*.tar.gz
+K-ShakeTune_results/**/*.csv
+K-ShakeTune_results/vibrations/*.tar.gz
 *.bkp
