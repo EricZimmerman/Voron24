@@ -2,3 +2,4 @@ saved_variables.cfg
 K-ShakeTune_results/**/*.csv
 K-ShakeTune_results/vibrations/*.tar.gz
 *.bkp
+mainsail.cfg
