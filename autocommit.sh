@@ -68,8 +68,7 @@ if command -v /usr/bin/mdb_dump &> /dev/null
 then
     echo "mdb_dump found! Exporting data.mdb to ~/printer_data/config/data.mdb.backup"
     mdb_dump -a -n ~/printer_data/database/data.mdb -f ~/printer_data/config/data.mdb.backup
-else
-    echo "mdb_dump not found! Consider installing it via 'sudo apt install lmdb-utils' if you want to back up your statistics database!"
+
 fi
 
 
