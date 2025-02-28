@@ -25,4 +25,4 @@ motor: ldo-42sth48-2004ac
 voltage: 48
 
 [autotune_tmc extruder]
-motor: ldo-36sth17-1004ahg
+motor: bondtech-36h020h-1004a-001
