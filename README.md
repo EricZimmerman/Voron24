@@ -1,9 +1,8 @@
 LDO Voron 2.4 kit
-- Chube Air (soon)
+- Chube Air 
 - Monolith 2WD in ezpccf
-- Sherpa mini
-- Kraken
-- Boxxy/Provoke bed
-- Danger Klipper bleeding-edge-v2
-
+- Takeoff and LGX lite Pro
+- Octo 1.1 723 with Watterott and 2240 drivers
+- Boxxy/Provok3d bed
+- Kalico
 
