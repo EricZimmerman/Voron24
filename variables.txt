@@ -1,4 +1,6 @@
 [Variables]
+filaments = {'v2.4_Fusion 1.5': {'name': 'v2.4_Fusion 1.5', 'configs': [{'nozzle_diameter': 0.4, 'pressure_advance': 0.036, 'smooth_time': 0.02}]}}
+materials = {'ABS': 0.036}
 nozzle_expansion_applied_offset = 0
 nozzle_expansion_coefficient = -0.0892361111084683
 
