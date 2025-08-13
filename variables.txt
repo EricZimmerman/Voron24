@@ -1,6 +1,6 @@
 [Variables]
-filaments = {'v2.4_Fusion1.5_ABS': {'name': 'v2.4_Fusion1.5_ABS', 'configs': [{'nozzle_diameter': 0.4, 'pressure_advance': 0.036, 'smooth_time': 0.02}]}, 'v2.4_Fusion_ASA': {'name': 'v2.4_Fusion_ASA', 'configs': [{'nozzle_diameter': 0.4, 'pressure_advance': 0.036, 'smooth_time': 0.02}]}, 'v2.4_3D4MAKERS_PPS-CF': {'name': 'v2.4_3D4MAKERS_PPS-CF', 'configs': [{'nozzle_diameter': 0.4, 'pressure_advance': 0.024, 'smooth_time': 0.02}]}, 'v2.4_Fusion1.5_ABSHT': {'name': 'v2.4_Fusion1.5_ABSHT', 'configs': [{'nozzle_diameter': 0.4, 'pressure_advance': 0.036, 'smooth_time': 0.02}]}}
-materials = {'ABS': 0.036, 'ASA': 0.036, 'PPS-CF': 0.024}
+filaments = {'v2.4_Fusion1.5_ABS': {'name': 'v2.4_Fusion1.5_ABS', 'configs': [{'nozzle_diameter': 0.4, 'pressure_advance': 0.036, 'smooth_time': 0.02}]}, 'v2.4_Fusion_ASA': {'name': 'v2.4_Fusion_ASA', 'configs': [{'nozzle_diameter': 0.4, 'pressure_advance': 0.036, 'smooth_time': 0.02}]}, 'v2.4_3D4MAKERS_PPS-CF': {'name': 'v2.4_3D4MAKERS_PPS-CF', 'configs': [{'nozzle_diameter': 0.4, 'pressure_advance': 0.024, 'smooth_time': 0.02}]}, 'v2.4_Fusion1.5_ABSHT': {'name': 'v2.4_Fusion1.5_ABSHT', 'configs': [{'nozzle_diameter': 0.4, 'pressure_advance': 0.036, 'smooth_time': 0.02}]}, 'v2.4_3dxtech_ezPC-CF': {'name': 'v2.4_3dxtech_ezPC-CF', 'configs': [{'nozzle_diameter': 0.4, 'pressure_advance': 0.024, 'smooth_time': 0.02}]}}
+materials = {'ABS': 0.036, 'ASA': 0.036, 'PPS-CF': 0.024, 'PC-CF': 0.024}
 nozzle_expansion_applied_offset = 0
 nozzle_expansion_coefficient = -0.0892361111084683
 
