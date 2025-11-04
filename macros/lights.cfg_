@@ -1,8 +1,9 @@
+
 [led_effect logo_busy]
 autostart:              false
 frame_rate:             24
 leds:
-    neopixel:status_leds (1)
+    neopixel:chamber
 layers:
     breathing  3 1 top (1,0,0)
 
@@ -10,7 +11,7 @@ layers:
 autostart:              false
 frame_rate:             24
 leds:
-    neopixel:status_leds (1)
+    neopixel:chamber
 layers:
     breathing  3 1 top (0.0, 0.02, 0.5)
 
@@ -18,31 +19,31 @@ layers:
 autostart:              false
 frame_rate:             24
 leds:
-    neopixel:status_leds (1)
+    neopixel:chamber
 layers:
         breathing  3 1 top (0.0, 0.0, 0.35)
 
 [led_effect logo_heating]
 leds:
-    neopixel:status_leds (1)
+    neopixel:chamber
 autostart:                          false
 frame_rate:                         24
 layers:
-     breathing  3 1 top (1, 0.18, 0)
+    comet  0.3  0 add (1, 0.18, 0)
 
 [led_effect logo_cooling]
 leds:
-    neopixel:status_leds (1)
+    neopixel:chamber
 autostart:                          false
 frame_rate:                         24
 layers:
-     breathing  3 1 top (0, 0, 1)
+    comet  0.3  0 add (0, 0, 1)
 
 [led_effect logo_homing]
 autostart:              false
 frame_rate:             24
 leds:
-    neopixel:status_leds (1)
+    neopixel:chamber
 layers:
         breathing  3 1 top (0.0, 0.6, 0.2)
 
@@ -50,7 +51,7 @@ layers:
 autostart:              false
 frame_rate:             24
 leds:
-    neopixel:status_leds (1)
+    neopixel:chamber
 layers:
         breathing  3 1 top (0.5, 0.1, 0.4)
 
@@ -58,7 +59,7 @@ layers:
 autostart:              false
 frame_rate:             24
 leds:
-    neopixel:status_leds (1)
+    neopixel:chamber
 layers:
         breathing  3 1 top (0.2, 1.0, 0.0)
 
@@ -66,7 +67,7 @@ layers:
 autostart:              false
 frame_rate:             24
 leds:
-    neopixel:status_leds (1)
+    neopixel:chamber
 layers:
     gradient  0.3  1 add (0.3, 0.0, 0.0),(0.3, 0.3, 0.0),(0.3, 0.1, 0.0)
 
@@ -74,7 +75,7 @@ layers:
 autostart:              false
 frame_rate:             24
 leds:
-    neopixel:status_leds (1)
+    neopixel:chamber
 layers:
         breathing  3 1 top (0.01, 0.01, 0.01)
 
@@ -82,7 +83,7 @@ layers:
 autostart:              false
 frame_rate:             24
 leds:
-    neopixel:status_leds (1)
+    neopixel:chamber
 layers:
         breathing  3 1 top (0.0, 1.0, 0.0)
 
@@ -94,7 +95,7 @@ layers:
 autostart:              false
 frame_rate:             24
 leds:
-    neopixel:status_leds (2,3)
+    neopixel:chamber
 layers:
         breathing  3 1 top (1.0, 0.18, 0.0, 0.0)
 
@@ -102,7 +103,7 @@ layers:
 autostart:              false
 frame_rate:             24
 leds:
-    neopixel:status_leds (2,3)
+    neopixel:chamber
 layers:
         breathing  3 1 top (0.0, 0.0, 1.0, 0.1)
 
@@ -110,7 +111,7 @@ layers:
 autostart:              false
 frame_rate:             24
 leds:
-    neopixel:status_leds (2,3)
+    neopixel:chamber
 layers:
         breathing  3 1 top (0.6, 0.0, 0.0, 0.0)
 
@@ -118,7 +119,7 @@ layers:
 autostart:              false
 frame_rate:             24
 leds:
-    neopixel:status_leds (2,3)
+    neopixel:chamber
 layers:
         breathing  3 1 top (0.6, 1.0, 0.0, 0.1)
 
@@ -129,7 +130,7 @@ layers:
 
 [led_effect critical_error]
 leds:
-    neopixel:status_leds
+    neopixel:chamber
 layers:
     strobe         1  1.5   add        (1.0,  1.0, 1.0)
     breathing      2  0     difference (0.95, 0.0, 0.0)
@@ -141,13 +142,11 @@ run_on_error:                          true
 
 [led_effect rainbow]
 leds:
-    neopixel:status_leds
+    neopixel:chamber
 autostart:                          false
 frame_rate:                         24
 layers:
     gradient  0.3  1 add (0.3, 0.0, 0.0),(0.0, 0.3, 0.0),(0.0, 0.0, 0.3)
-
-
 
 
 #######################
@@ -156,7 +155,8 @@ layers:
 
 [led_effect set_nozzle_leds]
 leds:
-    neopixel:status_leds (2,3)
+    neopixel:chamber
+   #neopixel:caselight
 autostart:                          false
 frame_rate:                         24
 layers:
@@ -164,7 +164,8 @@ layers:
 
 [led_effect set_logo_leds]
 leds:
-    neopixel:status_leds (1)
+    neopixel:chamber
+   #neopixel:caselight
 autostart:                          false
 frame_rate:                         24
 layers:
